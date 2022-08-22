@@ -2,9 +2,9 @@
 
 A simple prototype using Oculus Integration on Oculus Quest headset to detect a hand pose to trigger something.
 
-[https://github.com/prossel/IndexLaser](https://github.com/prossel/IndexLaser)
+[<img src="https://user-images.githubusercontent.com/541021/186019452-31b7a864-bf4b-4e48-91bb-6ca8d94f1abb.jpg" width="600" />](https://user-images.githubusercontent.com/541021/186019124-d8879efa-2c32-44a6-a855-f6d0d5fa05f8.mp4)
 
-[<img src="https://user-images.githubusercontent.com/541021/185590637-12cdafd0-d145-4890-8c13-b5293dbf9ed9.jpg" width="600"  />](https://user-images.githubusercontent.com/541021/185590637-12cdafd0-d145-4890-8c13-b5293dbf9ed9.jpg)
+[https://github.com/prossel/IndexLaser](https://github.com/prossel/IndexLaser)
 
 ## Installation
 
