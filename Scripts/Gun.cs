@@ -12,6 +12,8 @@ public class Gun : MonoBehaviour
     public bool autoFire = false;
     public GameObject projectilePrefab;
 
+    public bool projectileUsesGravity = true;
+
     public float initialSpeed = 10;
 
     [TooltipAttribute("Number of projectiles to send / second.")]
@@ -121,6 +123,7 @@ public class Gun : MonoBehaviour
         GameObject projectile = Instantiate(projectilePrefab, spawnPoint.position, spawnPoint.rotation);
         Rigidbody rb = projectile.GetComponent<Rigidbody>();
         //Debug.Log(transform.right);
+        rb.useGravity = projectileUsesGravity;
         rb.AddForce(transform.right * initialSpeed, ForceMode.VelocityChange);
     }
 
@@ -129,4 +132,8 @@ public class Gun : MonoBehaviour
         burstRemaining = 0;
     }
 
+    public void SetProjectileUsesGravity(bool value)
+    {
+        projectileUsesGravity = value;
+    }
 }
