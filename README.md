@@ -10,7 +10,8 @@ A simple prototype using Oculus Integration on Oculus Quest headset to detect a 
 
 * Create a Unity project (ex 2021.3)
 * Install Oculus Integration v42.0 from [https://developer.oculus.com/reference/unity/v42/](https://developer.oculus.com/reference/unity/v42/)
-* Clone or download this repo in Assets/Prototypes/IndexLaser folder
+* In the "Assets" folder, create a new folder named "Prototypes"
+* Clone or download this repo in the "Prototypes" folder
 
 ## History
 
