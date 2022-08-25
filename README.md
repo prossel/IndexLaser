@@ -9,7 +9,7 @@ A simple prototype using Oculus Integration on Oculus Quest headset to detect a 
 ## Installation
 
 * Create a Unity project (ex 2021.3)
-* Install Oculus Integration v42.0 from [https://developer.oculus.com/reference/unity/v42/](https://developer.oculus.com/reference/unity/v42/)
+* Install Oculus Integration v42.0 from [https://developer.oculus.com/downloads/package/unity-integration/42.0/](https://developer.oculus.com/downloads/package/unity-integration/42.0/)
 * In the "Assets" folder, create a new folder named "Prototypes"
 * Clone or download this repo in the "Prototypes" folder
 
