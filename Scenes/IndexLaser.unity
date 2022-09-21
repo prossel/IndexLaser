@@ -491,7 +491,7 @@ MonoBehaviour:
   bone: 6
   autoFire: 0
   projectilePrefab: {fileID: 721980067611449738, guid: c86be9b0759e8477cbde8f6828e07e1e, type: 3}
-  projectileUsesGravity: 0
+  projectileUsesGravity: 1
   initialSpeed: 10
   burstRate: 5
   burstCount: 10
